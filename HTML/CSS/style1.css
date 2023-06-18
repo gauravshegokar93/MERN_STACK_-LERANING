@@ -1,4 +1,4 @@
-h2{
+/* h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: blueviolet;
     background-color:aqua ;
@@ -9,8 +9,8 @@ h2{
     font-weight: 900;
     border-style: solid;
     width: 350px;
-    /* padding: 50px;  */ padding: 20px 40px;
-    margin: 100px;
+    padding: 50px;  padding: 20px 40px;
+    /* margin: 100px;
 }
 p{
     background-color: beige;
@@ -37,4 +37,12 @@ p{
     
    
 
+} */
+ 
+#box{
+    background-color: aqua;
+}
+#circle{
+    background-color: blanchedalmond;
+    border-radius: 50%;
 }

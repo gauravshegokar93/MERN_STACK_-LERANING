@@ -1,0 +1,49 @@
+ *{
+    padding: 0;
+    margin: 0;
+    color: white;
+ }
+
+ #navbar{
+    height: 60px;
+    background-color: black;
+ }
+
+ button{
+    background-color: #f08804;
+ }
+
+ #logo{
+    color: #f08804;
+    font-size: 25px;
+ }
+
+ a{
+    margin-right: 200px;
+ }
+ 
+ 
+ #xx{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline block;
+ }
+
+ #xxx{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline block;
+ }
+
+
+ #xnxx{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline block;
+ }
